@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "${workspaceFolder}/api-test-env/bin/python",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        "api_tests"
+    ]
+}
